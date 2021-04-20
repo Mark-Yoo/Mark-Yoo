@@ -11,7 +11,7 @@
 ### What I'm interested in and trying to learn recently
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/Amazonaws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </P>
 
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mark-yoo&show_icons=true&theme=dracula&hide=contribs&include_all_commits=true)](https://github.com/mark-yoo/github-readme-stats)
